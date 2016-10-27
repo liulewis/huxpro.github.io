@@ -1,3 +1,6 @@
+2016-10-27 copy from https://huangxuan.me 
+
+
 #Hux Blog
 
 ###[View Live Hux Blog &rarr;](https://huangxuan.me)
